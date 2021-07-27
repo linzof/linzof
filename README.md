@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linzof
-- 👀 I’m interested in ... React, Ruby, & Python
-- 🌱 I’m currently learning ... Mobile Applications and MERN
+- 👀 I’m interested in ... Java, React, Mobile Apps, Web Dev
+- 🌱 I’m currently learning ... Programming 
 - 💞️ I’m looking to collaborate on ... anything I can add value to.
 - 📫 How to reach me ... linzof@outlook.com
 
